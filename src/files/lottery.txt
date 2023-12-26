@@ -1,0 +1,10 @@
+1,Lego,7
+4,Car,5
+5,Lotto,10
+7,Snowman,10
+5,Pool,10
+7,Snowman,10
+5,Pool,10
+4,Car,5
+1,Lego,7
+2,Robot,4
